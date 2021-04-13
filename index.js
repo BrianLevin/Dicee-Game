@@ -13,3 +13,5 @@ var image1 = document.querySelectorAll('img')[0];
 image1.asetAtrribute("src", randomImageSource);
 
 var randomNumner2 =  Math.floor (Math.random() * 6) +1;
+
+var randomImageSource2 = "images/dice" +  randomNumber2 + ".png"
