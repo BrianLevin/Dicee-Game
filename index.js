@@ -9,3 +9,5 @@ var randomImageSource =  "images/ " + randomDiceImage;
 
 
 var image1 = document.querySelectorAll('img')[0];
+
+image1.asetAtrribute("src", randomImageSource);
