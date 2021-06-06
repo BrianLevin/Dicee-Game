@@ -8,11 +8,11 @@ A simple Javascript game application that allows the user to refresh the page. W
  
  This is  the page displayed when player 1  wins:
  
- ![Home Screenshot](images/player.png)
+ ![Home Screenshot](images/player1.png)
  
  This  page is displayed when player 2 wins:
  
-![Events Screenshot](images/intro.png)
+![Events Screenshot](images/player2.png)
   
   
  This page is displayed when there is a draw:
